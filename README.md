@@ -20,9 +20,9 @@ Este proyecto tiene como objetivo establecer una interacción entre un usuario y
 
 ## Diagrama de Componentes
 ### Idea Inicial
-![IdeaInicial](Idea Inicial.png)
+![IdeaInicial](IdeaInicial.png)
 ### Diagrama Final
-![DiagramaFinal](Diagrama Final.png)
+![DiagramaFinal](DiagramaFinal.png)
 
 ---
 
