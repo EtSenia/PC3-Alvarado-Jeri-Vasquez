@@ -2,6 +2,8 @@
 
 Este proyecto tiene como objetivo establecer una interacción entre un usuario y el robot NAO mediante una conversación. A través de un sensor en la cabeza del robot, se captura una foto del usuario que es analizada para detectar la emoción dominante. Luego, el robot genera respuestas para mantener una conversación en español con el usuario.
 
+**Link del video:** https://youtu.be/KjfTThC-QmY
+
 ## Descripción
 
 1. **Interacción Inicial**: El usuario inicia la interacción tocando el sensor en la cabeza del robot.
@@ -15,6 +17,12 @@ Este proyecto tiene como objetivo establecer una interacción entre un usuario y
 - **Captura de imagen**: La captura de la imagen original con la cámara del robot NAO fue descartada debido a restricciones de seguridad. Se optó por usar la cámara web del dispositivo.
 - **Modelo de chatbot pequeño**: El modelo escogido fue uno pequeño por lo que tiene problemas al retener memoria y dar buenas respuestas.
 - **Reconocimiento de voz**: El sistema de reconocimiento de voz del robot NAO solo reconoce comandos predefinidos, lo que limitaba la libertad del usuario para expresarse. Por lo tanto, la interacción se realiza a través de texto en lugar de audio.
+
+## Diagrama de Componentes
+### Idea Inicial
+![IdeaInicial](Idea Inicial.png)
+### Diagrama Final
+![DiagramaFinal](Diagrama Final.png)
 
 ---
 
